@@ -13,7 +13,7 @@ Passionate about using technology to make our lives easier, increase accessibili
 
 I always have more ideas than time!    
 
-<div style="background:#216e39;color:white">..  *:･ﾟ✧*:☆･ﾟ∗･:*✧ﾟ･:*  .. </div>
+
 
 ### <span style="color:#216e39">Reach me here:</span>
 
