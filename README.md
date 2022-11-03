@@ -71,7 +71,6 @@ I work in ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&l
 
 
 
-<hr style="background:#9be9a8">
 
 <div style="background:#216e39;color:white">..  *:･ﾟ✧*:☆･ﾟ∗･:*✧ﾟ･:*  .. </div>
 
