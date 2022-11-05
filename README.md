@@ -75,4 +75,3 @@ I work in ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&l
 <div style="background:#216e39;color:white">..  *:･ﾟ✧*:☆･ﾟ∗･:*✧ﾟ･:*  .. </div>
 
 
-<hr style="background:#9be9a8">
