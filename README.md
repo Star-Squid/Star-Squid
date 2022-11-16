@@ -62,15 +62,6 @@ I work in ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&l
 
 [![Star-Squid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Star-Squid&show_icons=true)](https://github.com/Star-Squid/github-readme-stats)
 
-<hr style="background:#9be9a8">
-
-### <span style="color:#216e39">Check out my Employee Directory tool!</span>
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Star-Squid&repo=employee-directory)](https://github.com/Star-Squid/employee-directory)
-
-
-
 
 
 <div style="background:#216e39;color:white">..  *:･ﾟ✧*:☆･ﾟ∗･:*✧ﾟ･:*  .. </div>
