@@ -2,16 +2,14 @@
 <div align="center"  markdown="1">
 <div style="background:#216e39;color:white">..  *:･ﾟ✧*:☆･ﾟ∗･:*✧ﾟ･:*  .. </div>
 
-### <span style="color:#216e39">Hi there, I’m Star-Squid</span>
+### <span style="color:#216e39">Hi there!</span>
 
-Frontend Developer based in London.  
+I'm a new-ish web developer/designer/multitasker based near London.  
 
-Passionate about using technology to make our lives easier, increase accessibility, and create human connection.  
+I'm passionate about using technology to make our lives easier, increase accessibility, and create human connection.  
 
-⭐️ I’m learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
- and Databases <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="25" height="25" />.
+⭐️ My preferred framework is React, but I'm curious about all web development technologies, including good old-fashioned table-based emails. One day I'll also harness databases, but it's taking longer than I thought 🤔.
 
-I always have more ideas than time!    
 
 
 
