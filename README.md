@@ -10,7 +10,7 @@ I'm passionate about using technology to make our lives easier, increase accessi
 
 My preferred framework is React, but I'm curious about all web development technologies, including good old-fashioned table-based emails. One day I'll also harness databases, but it's taking longer than I thought.
 
-Currently contemplating forming a club for people who wouldn't mind seeing all emojis perish in a fire. Their bland yellow faces wish they had the depth of expression of a simple :-)
+Currently contemplating forming a club for people who wouldn't mind seeing all emojis perish in a fire. Their yellow clown faces wish they had the depth of expression of a simple :-)
 
 
 
