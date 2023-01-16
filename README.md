@@ -8,9 +8,9 @@ I'm a new-ish web developer/designer/multitasker based near London.
 
 I'm passionate about using technology to make our lives easier, increase accessibility, and create human connection.  
 
-⭐️ My preferred framework is React, but I'm curious about all web development technologies, including good old-fashioned table-based emails. One day I'll also harness databases, but it's taking longer than I thought 🤔.
+My preferred framework is React, but I'm curious about all web development technologies, including good old-fashioned table-based emails. One day I'll also harness databases, but it's taking longer than I thought.
 
-
+Currently contemplating forming a club for people who wouldn't mind seeing all emojis die in a fire. Their bland yellow faces wish they had the depth of expression of a simple :-)
 
 
 
