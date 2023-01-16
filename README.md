@@ -1,6 +1,6 @@
 
 <div align="center"  markdown="1">
-<div style="background:#216e39;color:white">..  *:･ﾟ✧*:☆･ﾟ くコ:彡 ∗･:*✧ﾟ･:*  .. </div>
+<div style="background:#216e39;color:white">..  *:･ﾟ✧*:☆･ﾟ くコ:彡 ･ﾟ∗･:✧ﾟ･:*  .. </div>
 
 ### <span style="color:#216e39">Hi there!</span>
 
